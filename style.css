@@ -1,0 +1,51 @@
+body {
+    font-family: "Century Gothic", Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+    text-align: center;
+}
+
+header {
+    background-color: #007bff;
+    color: white;
+    padding: 1rem;
+}
+
+h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+main {
+    padding: 2rem;
+}
+
+.workout-item {
+    margin-bottom: 2rem;
+}
+
+.workout-item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+.set-info {
+    font-size: 18px;
+    margin: 1rem 0;
+}
+
+.set-checkbox {
+    margin: 0.5rem;
+    cursor: pointer;
+}
+
+footer {
+    margin-top: 2rem;
+    padding: 1rem;
+    background-color: #f4f4f9;
+    border-top: 1px solid #ddd;
+}
