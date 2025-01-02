@@ -26,7 +26,7 @@ const workouts = {
         { name: "Bird Dog", image: "images/bird_dog.jpg", sets: 3, reps: "10 reps per side" },
         { name: "Bodyweight Reverse Lunges", image: "images/reverse_lunges.jpg", sets: 3, reps: "10 reps per leg" },
         { name: "Forearm Plank with Leg Lifts", image: "images/plank_leg_lifts.jpg", sets: 3, reps: "20 seconds" },
-        { name: "Dumbbell Deadlifts", image: "images/deadlifts.jpg", sets: 3, reps: "12 reps" },
+        { name: "Dumbbell Deadlifts", image: "images/dumbbell_deadlift.jpg", sets: 3, reps: "12 reps" },
     ],
     Friday: [
         { name: "Rolling Ab Machine Roll-Outs", image: "images/rolling_ab.jpg", sets: 3, reps: "8-10 reps" },
