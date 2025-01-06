@@ -1,10 +1,10 @@
 // Workout data
 const workouts = {
     Monday: [
-        { name: "Forearm Plank to Roll-Outs", image: "images/plank_rollouts.jpg", sets: 3, reps: "10-12 reps" },
-        { name: "Dead Bugs", image: "images/deadbugs.jpg", sets: 3, reps: "10 reps per side" },
-        { name: "Seated Knee Lifts", image: "images/seated_knee_lifts.jpg", sets: 3, reps: "15 reps" },
-        { name: "Standing Dumbbell Side Bends", image: "images/side_bends.jpg", sets: 3, reps: "10 reps per side" },
+        { name: "Forearm Plank to Roll-Outs", image: "images/rolling_ab.jpg", sets: 3, reps: "10-12 reps" },
+        { name: "Dead Bugs", image: "images/deadbug.jpg", sets: 3, reps: "10 reps per side" },
+        { name: "Seated Knee Lifts", image: "images/knee_tucks.jpg", sets: 3, reps: "15 reps" },
+        { name: "Dumbell Side Raises", image: "images/dumbbell_side_raises.jpg", sets: 3, reps: "10 reps per side" },
         { name: "Leg Raises", image: "images/leg_raises.jpg", sets: 3, reps: "12-15 reps" },
     ],
     Tuesday: [
