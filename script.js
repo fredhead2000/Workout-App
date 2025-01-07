@@ -8,7 +8,7 @@ const workouts = {
         { name: "Leg Raises", image: "images/leg_raises.jpg", sets: 3, reps: "12-15 reps" },
     ],
     Tuesday: [
-        { name: "Incline Push-Ups", image: "images/incline_pushups.jpg", sets: 3, reps: "8-12 reps" },
+        { name: "Incline Push-Ups", image: "images/pushups.jpg", sets: 3, reps: "8-12 reps" },
         { name: "Bodyweight Squats", image: "images/squats.jpg", sets: 3, reps: "12 reps" },
         { name: "Forearm Plank Hold", image: "images/plank_hold.jpg", sets: 3, reps: "30 seconds" },
         { name: "Rolling Ab Machine (Slow Control)", image: "images/rolling_ab.jpg", sets: 3, reps: "8 reps" },
